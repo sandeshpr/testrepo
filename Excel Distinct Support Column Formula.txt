@@ -1,0 +1,4 @@
+=IF(COUNTIFS($C$2:C2,C2,$B$2:B2,B2)>1,0,1)
+
+A=Calling
+B=Called
